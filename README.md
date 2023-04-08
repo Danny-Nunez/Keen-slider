@@ -2,7 +2,7 @@
 
 # Keen-slider
 
-![68747470733a2f2f6b65656e2d736c696465722e696f2f696d616765732f636172642e676966](https://user-images.githubusercontent.com/114783191/230731890-d8270dea-713d-475d-aeed-1f43bb1e9991.gif)
+<img width="1076" alt="Screen Shot 2023-04-08 at 12 21 45 PM" src="https://user-images.githubusercontent.com/114783191/230732009-d33dbfd9-d56e-4b77-9160-54ae3f6cf008.png">
 
 # Features
 
