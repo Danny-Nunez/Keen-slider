@@ -145,7 +145,7 @@ body {
 
 .dots {
   display: flex;
-  gap: 5px;
+  gap: 10px;
   padding: 10px;
   justify-content: center;
   align-items: center;
@@ -209,7 +209,7 @@ body {
   }
 
   .wrapper {
-    height: 740px;
+    height: 720px;
     padding: 10px 20px;
     gap: 0px;
   }
